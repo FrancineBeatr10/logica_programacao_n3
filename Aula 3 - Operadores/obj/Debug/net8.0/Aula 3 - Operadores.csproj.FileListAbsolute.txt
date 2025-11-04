@@ -1,0 +1,14 @@
+C:\Users\francine.bssilva\OneDrive - SENAC - SP\Documentos\Aula 3 - Operadores\bin\Debug\net8.0\Aula 3 - Operadores.exe
+C:\Users\francine.bssilva\OneDrive - SENAC - SP\Documentos\Aula 3 - Operadores\bin\Debug\net8.0\Aula 3 - Operadores.deps.json
+C:\Users\francine.bssilva\OneDrive - SENAC - SP\Documentos\Aula 3 - Operadores\bin\Debug\net8.0\Aula 3 - Operadores.runtimeconfig.json
+C:\Users\francine.bssilva\OneDrive - SENAC - SP\Documentos\Aula 3 - Operadores\bin\Debug\net8.0\Aula 3 - Operadores.dll
+C:\Users\francine.bssilva\OneDrive - SENAC - SP\Documentos\Aula 3 - Operadores\bin\Debug\net8.0\Aula 3 - Operadores.pdb
+C:\Users\francine.bssilva\OneDrive - SENAC - SP\Documentos\Aula 3 - Operadores\obj\Debug\net8.0\Aula 3 - Operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\francine.bssilva\OneDrive - SENAC - SP\Documentos\Aula 3 - Operadores\obj\Debug\net8.0\Aula 3 - Operadores.AssemblyInfoInputs.cache
+C:\Users\francine.bssilva\OneDrive - SENAC - SP\Documentos\Aula 3 - Operadores\obj\Debug\net8.0\Aula 3 - Operadores.AssemblyInfo.cs
+C:\Users\francine.bssilva\OneDrive - SENAC - SP\Documentos\Aula 3 - Operadores\obj\Debug\net8.0\Aula 3 - Operadores.csproj.CoreCompileInputs.cache
+C:\Users\francine.bssilva\OneDrive - SENAC - SP\Documentos\Aula 3 - Operadores\obj\Debug\net8.0\Aula 3 - Operadores.dll
+C:\Users\francine.bssilva\OneDrive - SENAC - SP\Documentos\Aula 3 - Operadores\obj\Debug\net8.0\refint\Aula 3 - Operadores.dll
+C:\Users\francine.bssilva\OneDrive - SENAC - SP\Documentos\Aula 3 - Operadores\obj\Debug\net8.0\Aula 3 - Operadores.pdb
+C:\Users\francine.bssilva\OneDrive - SENAC - SP\Documentos\Aula 3 - Operadores\obj\Debug\net8.0\Aula 3 - Operadores.genruntimeconfig.cache
+C:\Users\francine.bssilva\OneDrive - SENAC - SP\Documentos\Aula 3 - Operadores\obj\Debug\net8.0\ref\Aula 3 - Operadores.dll
